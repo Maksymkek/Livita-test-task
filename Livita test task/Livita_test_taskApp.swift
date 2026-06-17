@@ -11,7 +11,7 @@ import SwiftUI
 struct Livita_test_taskApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            HomeScreenView()
         }
     }
 }
